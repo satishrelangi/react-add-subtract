@@ -1,0 +1,17 @@
+button{
+    width: 80%;
+    height: 45px;
+    color: white;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+
+#btn1{
+    background-color:dodgerblue;
+    border: none;
+}
+#btn2{
+    border: none;
+    background-color:crimson;
+}

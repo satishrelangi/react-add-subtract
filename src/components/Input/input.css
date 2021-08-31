@@ -1,0 +1,16 @@
+label{
+    color:teal;
+    font-size: 25px;
+}
+.inp_div{
+    padding-top: 80px;
+    text-align: center;
+}
+input{
+    width: 78%;
+    margin: 15px 0;
+    height: 35px;
+    outline: none;
+    border: 2px solid black;
+    margin-bottom: 35px;
+}
